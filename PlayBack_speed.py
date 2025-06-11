@@ -1,5 +1,5 @@
-val = input()
+text = input()
 
-new_val = val.replace(" ", "...")
+new_text = text.replace(" ", "...")
 
-print(new_val)
+print(new_text)
