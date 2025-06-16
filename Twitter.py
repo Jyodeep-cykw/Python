@@ -9,7 +9,7 @@ for i in user:
         print(i, end = "")
 
 print()
-   
+
 
     
             
